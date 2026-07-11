@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<title>Emergency Hospital Finder</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet"
+href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+</head>
+<body>
+<header>
+<h1> Emergency Hospital Finder</h1>
+<p>Find Nearby Hospitals During Emergency</p>
+</header>
+<section class="hero">
+<button id="findHospital">
+ Find Nearby Hospitals
+</button>
+<p id="status">
+Waiting for location...
+</p>
+</section>
+<div id="map"></div>
+<section class="hospitalSection">
+<h2>Nearby Hospitals</h2>
+<div id="hospitalList">
+</div>
+</section>
+<footer>
+Developed for CSP Project
+</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
+
