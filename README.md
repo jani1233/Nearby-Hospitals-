@@ -136,3 +136,4 @@ Reach Hospital Quickly
 The main purpose of Emergency Hospital Finder is to provide a reliable digital solution for quickly locating healthcare facilities during emergency situations. By combining real-time location tracking, interactive maps, and navigation support, this application helps users access medical services faster and more efficiently.
 
 This project demonstrates the practical application of web technologies, location-based services, and API integration to solve real-world healthcare accessibility problems.
+Deploy link:https://jani1233.github.io/Nearby-Hospitals-/
